@@ -1,0 +1,27 @@
+{
+  "name": "adapt-webObject",
+  "version": "1.2",
+  "homepage": "https://github.com/ndeighan/adapt-webObject",
+  "authors": [
+    "Niall Deighan <niall.deighan@injixo.com>"
+  ],
+  "displayName": "WebObject",
+  "component": "webObject",
+  "description": "A simple container for html content",
+  "main": "/js/adapt-webObject.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-component"
+  ],
+  "license": "GPLv3",
+  "_release": "1.1.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.2",
+    "commit": ""
+  },
+  "_source": "git://github.com/ndeighan/adapt-webObject.git",
+  "_target": "~1.1.1",
+  "_originalSource": "adapt-webObject",
+  "_direct": true
+}
