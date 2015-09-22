@@ -6,11 +6,11 @@ A simple Adapt component for containing html content.
 Installation
 ------------
 
-First, be sure to install the [Adapt Command Line Interface](https://github.com/adaptlearning/adapt-cli), then download the webObject component from:-
+First, be sure to install the Adapt Framework v2.0, then download the webObject component from:-
 
 		https://github.com/ndeighan/adapt-webObject
 
-Copy to the components folder of the framework.
+Copy to the src/components folder of the framework.
 
 Usage
 -----
