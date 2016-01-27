@@ -1,6 +1,6 @@
 {
   "name": "adapt-webObject",
-  "version": "1.2",
+  "version": "1.1.1",
   "description": "A simple object containing html",
   "main": "",
   "scripts": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": ""
   },
-  "author": "Niall Deighan",
+  "author": "injixo",
   "license": "GPL v3",
   "bugs": {
     "url": ""

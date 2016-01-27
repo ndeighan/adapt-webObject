@@ -1,22 +1,17 @@
-adapt-webObject
+adapt-contrib-blank
 ===================
 
-A simple Adapt component for containing html content.
+A simple Adapt core contributed blank component.
 
 Installation
 ------------
 
-First, be sure to install the Adapt Framework v2.0, then download the webObject component from:-
+First, be sure to install the [Adapt Command Line Interface](https://github.com/cajones/adapt-cli), then from the command line run:-
 
-		https://github.com/ndeighan/adapt-webObject
-
-Copy to the src/components folder of the framework.
+		adapt install adapt-contrib-blank
 
 Usage
 -----
-Once in place, the component can be used to create a container for html, within your content.
+Once installed, the component can be used to create a blank space within your content.
 
-For example JSON format, see [example.json](https://github.com/ndeighan/adapt-webObject/example.json)
-
-Note: for use with the Trickle extension, the adapt-webObject is listening for the variable triggerVar to change.
-Include a simple piece of javascript at the end of your html5 piece that sets "parent.triggerVar = 1;"
+For example JSON format, see [example.json](https://github.com/adaptlearning/adapt-contrib-blank/blob/master/example.json)

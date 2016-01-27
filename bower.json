@@ -7,7 +7,7 @@
   ],
   "displayName" : "WebObject",
   "component" : "webObject",
-  "description": "A simple container html content.",
+  "description": "A simple container for HTML5 content",
   "main": "/js/adapt-webObject.js",
   "keywords": [
     "adapt-plugin",
